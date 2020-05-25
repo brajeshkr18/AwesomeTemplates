@@ -12,6 +12,16 @@ http://template.brajeshkumar.co.in/grocery_store-web
 http://template.brajeshkumar.co.in/resale_v2-web
 http://template.brajeshkumar.co.in/smart_bazaar
 
+
+
+
+http://template.brajeshkumar.co.in/photostat
+http://template.brajeshkumar.co.in/creature-web
+http://template.brajeshkumar.co.in/Directory
+http://template.brajeshkumar.co.in/megapixel
+http://template.brajeshkumar.co.in/photocall
+http://template.brajeshkumar.co.in/photographer
+
 \
 
 https://themefisher.com/free-bootstrap-templates
